@@ -1,3 +1,4 @@
-Team: sungmin and Rami
-This code will make a game similar to space shooter. You can control your shooter with the arrow keys to position its angle. You can shoot with the up button and there is a score 
-and timer of 45 seconds. After 2 hits on the turtle, you will get a powerup button which when clicked will change the background.
+Description: This code will make a game similar to space shooter. You can control your shooter with the arrow keys to position its angle. You can shoot with the up button and there is a score 
+and timer. After 2 hits on the turtle, you will get a powerup button. When clicked the next shot you perform will have a red ghost instead of the original ghost. 
+Names: Sungmin and Rami
+Video: https://watch.screencastify.com/v/ZVSSu6IC18hdCZg2lm5q
